@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azimul Huda</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/orN3wO3MKlqYLLybHEyneUQf3hFNtsLZHkFe1G0D2GA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTQx/MzkyMjA0NS92ZWN0/b3IvcHJvZ3JhbW1p/bmctYXQtaG9tZS5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/XzVVaFp1MC1ldGot/bFdab3JOVUFrRl9Q/RXFYZkhwdWY0NGRD/ZVdlQ092Yz0">
+<img align="center" alt="Coding" width="400" src="https://imgs.search.brave.com/orN3wO3MKlqYLLybHEyneUQf3hFNtsLZHkFe1G0D2GA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTQx/MzkyMjA0NS92ZWN0/b3IvcHJvZ3JhbW1p/bmctYXQtaG9tZS5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/XzVVaFp1MC1ldGot/bFdab3JOVUFrRl9Q/RXFYZkhwdWY0NGRD/ZVdlQ092Yz0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azimulhudayt&label=Profile%20views&color=0e75b6&style=flat" alt="azimulhudayt" /> </p>
 
